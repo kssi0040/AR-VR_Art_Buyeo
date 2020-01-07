@@ -1,0 +1,658 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScenarioInfo>
+  <MaxStage>4</MaxStage>
+  <MaxMedal2D>0</MaxMedal2D>
+  <MaxMedal3D>0</MaxMedal3D>
+  <StageInfoList>
+    <StageInfo num="0">
+      <CanvasCount>2</CanvasCount>
+      <CharacterList>
+        <CharType2D>
+          <Canvas ID="0">
+            <CreateCharList>
+              <CreateChar ID="0" Name="CH_04" Desc="테스트용"></CreateChar>
+            </CreateCharList>
+          </Canvas>
+        </CharType2D>
+        <!--<CharType3D>
+          <CreateCharList>
+            <CreateChar ID="0" Name="테스트용3D_1" Desc="테스트용3D_1"></CreateChar>
+            <CreateChar ID="1" Name="테스트용3D_2" Desc="테스트용3D_2"></CreateChar>
+            <CreateChar ID="2" Name="테스트용3D_3" Desc="테스트용3D_3"></CreateChar>
+          </CreateCharList>
+        </CharType3D>-->
+      </CharacterList>
+      <ObjectList>
+        <ObjType2D>
+          <Canvas ID="0">
+            <CreateObjList>
+              <CreateObj ID="0" Name="TextBox" Desc="테스트_오브젝트1"></CreateObj>
+              <CreateObj ID="1" Name="forward" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="2" Name="InputFieldPanel" Desc="입력창"></CreateObj>
+              <CreateObj ID="3" Name="VideoTexture" Desc="비디오UI"></CreateObj>
+              <CreateObj ID="4" Name="RuleTextBox" Desc="게임 룰 설명"></CreateObj>
+            </CreateObjList>
+          </Canvas>
+        </ObjType2D>
+        <!--<ObjType3D>
+          <CreateObj ID="0" Name="테스트_오브젝트3D_1" Desc="테스트_오브젝트3D_1"></CreateObj>
+        </ObjType3D>-->
+      </ObjectList>
+    </StageInfo>
+    <StageInfo num="1">
+      <CanvasCount>2</CanvasCount>
+      <CharacterList>
+        <CharType2D>
+          <Canvas ID="0">
+            <CreateCharList>
+              <CreateChar ID="0" Name="CH_04" Desc="테스트용"></CreateChar>
+            </CreateCharList>
+          </Canvas>
+        </CharType2D>
+        <!--<CharType3D>
+          <CreateCharList>
+            <CreateChar ID="0" Name="테스트용3D_1" Desc="테스트용3D_1"></CreateChar>
+            <CreateChar ID="1" Name="테스트용3D_2" Desc="테스트용3D_2"></CreateChar>
+            <CreateChar ID="2" Name="테스트용3D_3" Desc="테스트용3D_3"></CreateChar>
+          </CreateCharList>
+        </CharType3D>-->
+      </CharacterList>
+      <ObjectList>
+        <ObjType2D>
+          <Canvas ID="0">
+            <CreateObjList>
+              <CreateObj ID="0" Name="TextBox" Desc="테스트_오브젝트1"></CreateObj>
+              <CreateObj ID="1" Name="forward" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="2" Name="InputFieldPanel" Desc="입력창"></CreateObj>
+              <CreateObj ID="3" Name="VideoTexture" Desc="비디오UI"></CreateObj>
+              <CreateObj ID="4" Name="RuleTextBox" Desc="게임 룰 설명"></CreateObj>
+            </CreateObjList>
+          </Canvas>
+        </ObjType2D>
+        <!--<ObjType3D>
+          <CreateObj ID="0" Name="테스트_오브젝트3D_1" Desc="테스트_오브젝트3D_1"></CreateObj>
+        </ObjType3D>-->
+      </ObjectList>
+    </StageInfo>
+    <StageInfo num="2">
+      <CanvasCount>2</CanvasCount>
+      <CharacterList>
+        <CharType2D>
+          <Canvas ID="0">
+            <CreateCharList>
+              <CreateChar ID="0" Name="CH_04" Desc="테스트용"></CreateChar>
+              <CreateChar ID="1" Name="CH_01" Desc="테스트용"></CreateChar>
+              <CreateChar ID="2" Name="CH_02" Desc="테스트용"></CreateChar>
+              <CreateChar ID="3" Name="Viet_base" Desc="테스트용"></CreateChar>
+              <CreateChar ID="4" Name="Viet_고구려" Desc="테스트용"></CreateChar>
+              <CreateChar ID="5" Name="Viet_고려" Desc="테스트용"></CreateChar>
+              <CreateChar ID="6" Name="Viet_조선" Desc="테스트용"></CreateChar>
+            </CreateCharList>
+          </Canvas>
+        </CharType2D>
+        <!--<CharType3D>
+          <CreateCharList>
+            <CreateChar ID="0" Name="테스트용3D_1" Desc="테스트용3D_1"></CreateChar>
+            <CreateChar ID="1" Name="테스트용3D_2" Desc="테스트용3D_2"></CreateChar>
+            <CreateChar ID="2" Name="테스트용3D_3" Desc="테스트용3D_3"></CreateChar>
+          </CreateCharList>
+        </CharType3D>-->
+      </CharacterList>
+      <ObjectList>
+        <ObjType2D>
+          <Canvas ID="0">
+            <CreateObjList>
+              <CreateObj ID="0" Name="System_PopUp" Desc="테스트_오브젝트1"></CreateObj>
+              <CreateObj ID="1" Name="TextBox" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="2" Name="forward" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="3" Name="PopUp" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="4" Name="Link" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="5" Name="의상변경_고구려" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="6" Name="의상변경_고려" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="7" Name="의상변경_조선" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="8" Name="사진_1" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="9" Name="사진_2" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="10" Name="사진_3" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="11" Name="사진_4" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="12" Name="Controller" Desc="테스트_오브젝트2"></CreateObj>
+              <CreateObj ID="13" Name="RawImage" Desc="테스트_오브젝트2"></CreateObj>
+            </CreateObjList>
+          </Canvas>
+          <Canvas ID="1">
+            <CreateObjList>
+              <CreateObj ID="0" Name="BackGround" Desc="테스트_오브젝트1"></CreateObj>
+            </CreateObjList>
+          </Canvas>
+          <!--<Canvas ID="2">
+            <CreateObjList>
+              <CreateObj ID="0" Name="Cloth" Desc="의상"></CreateObj>
+            </CreateObjList>
+          </Canvas>-->
+        </ObjType2D>
+        <ObjType3D>
+          <CreateObjList>
+            <CreateObj ID="0" Name="Sphere" Desc="테스트_오브젝트3D_1"></CreateObj>
+          </CreateObjList>
+        </ObjType3D>
+      </ObjectList>
+    </StageInfo>
+  </StageInfoList>
+  <StageSetList>
+    <StageSet num="0">
+      <BranchList>
+        <BranchItem ID="0">
+          <Count>0</Count>
+        </BranchItem>
+      </BranchList>
+      <PageList>
+        <!--<Stage Prev="-1" Index="0" Next="1" EventType="Text" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="0" Index="1" Next="2" EventType="Quiz" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="1" Index="2" Next="3" EventType="LoadScene" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>-->
+        <Stage Prev="-1" Index="0" Next="1" EventType="Text" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <!--<Stage Prev="0" Index="1" Next="2" EventType="TouchGame" EventID="0">
+          <BackGround>
+            <Image>null</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>-->
+        <Stage Prev="0" Index="1" Next="2" EventType="LoadScene" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+      </PageList>
+    </StageSet>
+    <StageSet num="1">
+      <BranchList>
+        <BranchItem ID="0">
+          <Count>0</Count>
+        </BranchItem>
+      </BranchList>
+      <PageList>
+        <!--<Stage Prev="-1" Index="0" Next="1" EventType="Text" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="0" Index="1" Next="2" EventType="Quiz" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="1" Index="2" Next="3" EventType="LoadScene" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>-->
+        <Stage Prev="-1" Index="0" Next="1" EventType="Text" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="0" Index="1" Next="2" EventType="TouchGame" EventID="0">
+          <BackGround>
+            <Image>null</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="1" Index="2" Next="3" EventType="LoadScene" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+      </PageList>
+    </StageSet>
+    <StageSet num="2">
+      <BranchList>
+        <BranchItem ID="0">
+          <Count>0</Count>
+        </BranchItem>
+      </BranchList>
+      <PageList>
+        <!--<Stage Prev="-1" Index="0" Next="1" EventType="Text" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="0" Index="1" Next="2" EventType="Quiz" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="1" Index="2" Next="3" EventType="LoadScene" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>-->
+        <Stage Prev="-1" Index="0" Next="1" EventType="Text" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="0" Index="1" Next="2" EventType="TakeShot" EventID="0">
+          <BackGround>
+            <Image>null</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="1" Index="2" Next="3" EventType="Text" EventID="1">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+        <Stage Prev="2" Index="3" Next="4" EventType="LoadScene" EventID="0">
+          <BackGround>
+            <Image>BG</Image>
+            <Music On="0" Src="null"/>
+            <Effect On="0" Src="null"/>
+            <Narration On="0" Src="null"/>
+            <Navi On="0" Index="-1"/>
+          </BackGround>
+        </Stage>
+      </PageList>
+    </StageSet>
+  </StageSetList>
+  <EventList>
+    <TextEvent>
+      <InitEvent ID="0">
+        <InitCharList>
+          <CharType2D>
+            <Canvas ID="0">
+              <InitCharList>
+                <InitChar ID="0" Name="CH_04" Desc="해설" Anim="Idle">
+                  <AnchorMin x="0.7647344" y="0.2833334"/>
+                  <AnchorMax x="0.9881719" y="0.733"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="-932.5" y="-573.5"/>
+                  <OffsetMax x="1051.5" y="218.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitChar>
+              </InitCharList>
+            </Canvas>
+          </CharType2D>
+        </InitCharList>
+        <InitObjList>
+          <ObjType2D>
+            <Canvas ID="0">
+              <InitObjList>
+                <InitObj ID="0" Name="TextBox" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.0" y="0.02147222"/>
+                  <AnchorMax x="0.9928594" y="0.2916111"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="36.5" y="15.0"/>
+                  <OffsetMax x="12.0" y="-12.0"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>
+                <InitObj ID="1" Name="forward" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.9382969" y="0.036"/>
+                  <AnchorMax x="0.9803594" y="0.1208611"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="4.5" y="8.5"/>
+                  <OffsetMax x="3.5" y="6.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>
+              </InitObjList>
+            </Canvas>
+          </ObjType2D>
+        </InitObjList>
+        <Text>###은/는 경기도 안산시 다문화마을특구를 둘러볼 것입니다! 안산시 주변에 외국인 근로자들의 일자리가 많아서 안산시에 자연스럽게 다문화마을특구가 형성됐습니다. 안산시 다문화마을특구의 맛과 멋을 체험하며 문화의 속성을 이해해 봅시다.</Text>
+      </InitEvent>
+      <InitEvent ID="1">
+        <InitCharList>
+          <CharType2D>
+            <Canvas ID="0">
+              <InitCharList>
+                <!--<InitChar ID="0" Name="CH_04" Desc="해설" Anim="Idle">
+                  <AnchorMin x="0.7647344" y="0.2833334"/>
+                  <AnchorMax x="0.9881719" y="0.733"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="-932.5" y="-573.5"/>
+                  <OffsetMax x="1051.5" y="218.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitChar>-->
+              </InitCharList>
+            </Canvas>
+          </CharType2D>
+        </InitCharList>
+        <InitObjList>
+          <ObjType2D>
+            <Canvas ID="0">
+              <InitObjList>
+                <InitObj ID="13" Name="RawImage" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.0" y="0.0"/>
+                  <AnchorMax x="1.0" y="1.0"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="596.5" y="572.0"/>
+                  <OffsetMax x="-596.5" y="-130.0"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>               
+              </InitObjList>
+            </Canvas>
+          </ObjType2D>
+        </InitObjList>
+        <Text>###은/는 경기도 안산시 다문화마을특구를 둘러볼 것입니다! 안산시 주변에 외국인 근로자들의 일자리가 많아서 안산시에 자연스럽게 다문화마을특구가 형성됐습니다. 안산시 다문화마을특구의 맛과 멋을 체험하며 문화의 속성을 이해해 봅시다.</Text>
+      </InitEvent>
+    </TextEvent>
+    <InputFieldEvent>
+      <InitEvent ID="0">
+        <InitCharList>
+          <CharType2D>
+            <Canvas ID="0">
+              <InitCharList>
+                <InitChar ID="0" Name="CH_04" Desc="해설" Anim="Idle">
+                  <AnchorMin x="0.7647344" y="0.2833334"/>
+                  <AnchorMax x="0.9881719" y="0.733"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="-932.5" y="-573.5"/>
+                  <OffsetMax x="1051.5" y="218.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitChar>
+              </InitCharList>
+            </Canvas>
+          </CharType2D>
+        </InitCharList>
+        <InitObjList>
+          <ObjType2D>
+            <Canvas ID="0">
+              <InitObjList>
+                <InitObj ID="0" Name="TextBox" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.0" y="0.02147222"/>
+                  <AnchorMax x="0.9928594" y="0.2916111"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="36.5" y="15.0"/>
+                  <OffsetMax x="12.0" y="-12.0"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>
+                <InitObj ID="1" Name="forward" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.9382969" y="0.036"/>
+                  <AnchorMax x="0.9803594" y="0.1208611"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="4.5" y="8.5"/>
+                  <OffsetMax x="3.5" y="6.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>
+                <InitObj ID="2" Name="InputFieldPanel" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.124" y="0.342"/>
+                  <AnchorMax x="0.6684375" y="0.8897778"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="15.65002" y="9.720123"/>
+                  <OffsetMax x="-3.650024" y="-6.979889"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>
+              </InitObjList>
+            </Canvas>
+          </ObjType2D>
+        </InitObjList>
+        <Text>가을이라면 붉은 열매가 열린 나무를 찾을 수 있을 거야. 붉은 열매를 맺는 이 나무의 이름은 무엇일까?</Text>
+      </InitEvent>      
+    </InputFieldEvent>
+    <VideoPlayEvent>
+      <InitEvent ID="0">
+        <InitCharList>
+          <CharType2D>
+            <Canvas ID="0">
+              <InitCharList>
+                <InitChar ID="0" Name="CH_04" Desc="해설" Anim="Idle">
+                  <AnchorMin x="0.7647344" y="0.2833334"/>
+                  <AnchorMax x="0.9881719" y="0.733"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="-932.5" y="-573.5"/>
+                  <OffsetMax x="1051.5" y="218.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitChar>
+              </InitCharList>
+            </Canvas>
+          </CharType2D>
+        </InitCharList>
+        <InitObjList>
+          <ObjType2D>
+            <Canvas ID="0">
+              <InitObjList>
+                <InitObj ID="0" Name="TextBox" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.0" y="0.02147222"/>
+                  <AnchorMax x="0.9928594" y="0.2916111"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="36.5" y="15.0"/>
+                  <OffsetMax x="12.0" y="-12.0"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>
+                <InitObj ID="1" Name="forward" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.9382969" y="0.036"/>
+                  <AnchorMax x="0.9803594" y="0.1208611"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="4.5" y="8.5"/>
+                  <OffsetMax x="3.5" y="6.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>
+                <InitObj ID="3" Name="VideoTexture" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.029" y="0.3184167"/>
+                  <AnchorMax x="0.7647344" y="0.9757501"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="13.75" y="17.49994"/>
+                  <OffsetMax x="-4.349976" y="-13.10004"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>
+              </InitObjList>
+            </Canvas>
+          </ObjType2D>
+        </InitObjList>
+        <Text>가을이라면 붉은 열매가 열린 나무를 찾을 수 있을 거야. 붉은 열매를 맺는 이 나무의 이름은 무엇일까?</Text>
+        <Clip>https://firebasestorage.googleapis.com/v0/b/fir-authtest22.appspot.com/o/Test1%2Ftest_movie_2.mp4?alt=media&amp;token=04050b8f-ca56-4fd5-8b91-15ec1784755f</Clip>
+      </InitEvent>
+    </VideoPlayEvent>
+    <LoadSceneEvent>
+      <InitEvent ID="0">
+        <Scene>SelectMap</Scene>
+      </InitEvent>      
+    </LoadSceneEvent>
+    <QuizEvent>
+      <InitEvent ID="0">
+        <InitCharList>
+          <CharType2D>
+            <Canvas ID="0">
+              <InitCharList>
+                <InitChar ID="0" Name="CH_04" Desc="해설" Anim="Idle">
+                  <AnchorMin x="0.7647344" y="0.2833334"/>
+                  <AnchorMax x="0.9881719" y="0.733"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="-932.5" y="-573.5"/>
+                  <OffsetMax x="1051.5" y="218.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitChar>
+              </InitCharList>
+            </Canvas>
+          </CharType2D>
+        </InitCharList>
+        <InitObjList>
+          <ObjType2D>
+            <Canvas ID="0">
+              <InitObjList>
+              </InitObjList>
+            </Canvas>
+            <Canvas ID="1">
+              <InitObjList>                
+              </InitObjList>
+            </Canvas>
+          </ObjType2D>
+        </InitObjList>
+        <Quiz Type="QuizTimeAtk" ID="0"/>
+      </InitEvent>
+    </QuizEvent>
+    <TouchGameEvent>
+      <InitEvent ID="0">
+        <Count min="4" max="8"/>
+        <ObjectList>
+          <!--<Object2D>
+            <Canvas ID="0">
+              <CreateObjList>
+                <CreateObj ID="" Name="" Desc=""></CreateObj>
+              </CreateObjList>
+            </Canvas>
+          </Object2D>-->
+          <ObjType3D>
+            <CreateObjList>
+              <CreateObj ID="0" Name="Cube" Desc="테스트1"></CreateObj>
+              <CreateObj ID="1" Name="Sphere 1" Desc="테스트2"></CreateObj>
+              <CreateObj ID="2" Name="Capsule" Desc="테스트3"></CreateObj>
+            </CreateObjList>
+          </ObjType3D>
+        </ObjectList>
+        <InitObjList>
+          <ObjType2D>
+            <Canvas ID="0">
+              <InitObjList>
+                <InitObj ID="4" Name="RuleTextBox" Desc="테스트_오브젝트1" Anim="null">
+                  <AnchorMin x="0.0255625" y="0.6494723"/>
+                  <AnchorMax x="0.9695158" y="0.9798055"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="23.0" y="20.0"/>
+                  <OffsetMax x="-11.0" y="-26.0"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>                
+              </InitObjList>
+            </Canvas>
+          </ObjType2D>
+        </InitObjList>
+        <Text>신두리 해안사구의 동식물들이 깨끗한 물을 먹을 수 있도록 사구 주변의 쓰레기를 치워 주세요.</Text>
+      </InitEvent>
+    </TouchGameEvent>
+    <ShotEvent>
+      <InitEvent ID="0">
+        <InitCharList>
+          <CharType2D>
+            <Canvas ID="0">
+              <InitCharList>
+                <!--<InitChar ID="0" Name="Test1" Desc="테스트용" Anim="Idle">
+                  <AnchorMin x="0.2448889" y="0.0"/>
+                  <AnchorMax x="1.0" y="0.3196487"/>
+                  <Pivot x="0.5" y="0.0"/>
+                  <OffsetMin x="-1" y="-23.5"/>
+                  <OffsetMax x="41" y="3.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitChar>-->
+              </InitCharList>
+            </Canvas>
+          </CharType2D>
+        </InitCharList>
+        <InitObjList>
+          <ObjType2D>
+            <Canvas ID="2">
+              <InitObjList>
+                <!--<InitObj ID="0" Name="Cloth" Desc="의상" Anim="null">
+                  <AnchorMin x="0.3074844" y="0.0"/>
+                  <AnchorMax x="0.6906876" y="0.3345001"/>
+                  <Pivot x="0.5" y="0.5"/>
+                  <OffsetMin x="16.5" y="-1046.5"/>
+                  <OffsetMax x="-11.5" y="-10.5"/>
+                  <Rot x="0.0" y="0.0" z="0.0"/>
+                  <Scale x="1.0" y="1.0" z="1.0"/>
+                </InitObj>-->
+              </InitObjList>
+            </Canvas>
+          </ObjType2D>
+        </InitObjList>
+      </InitEvent>
+    </ShotEvent>
+  </EventList>
+</ScenarioInfo>

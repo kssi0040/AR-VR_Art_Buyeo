@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz>
+  <List>
+    <QuizTimeRec>
+      <InitQuizInfo ID="0" Count="5">
+        <QuizList>
+          <InitQuiz ID="0" Type="ImgOpt">
+            <ImgOpt>
+              <Question>1. 한 사회의 구성원들에게 공통적인 행동 양식 및 사고 방식이 나타남. 인도에서는 왼손을 불경하게 여기고, 중국에서는 생일에 장수면을 먹는 것이 그러한 예</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="공유성"/>
+              </AnswerList>
+            </ImgOpt>              
+          </InitQuiz>
+          <InitQuiz ID="1" Type="ImgOpt">
+            <ImgOpt>
+              <Question>2. 문화는 타고나는 것이 아니라 후천적으로 학습된 결과로 얻어짐. 젓가락 사용법을 배우는 것이 그러한 예</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="학습성"/>
+              </AnswerList>
+            </ImgOpt>
+          </InitQuiz>
+          <InitQuiz ID="2" Type="ImgOpt">
+            <ImgOpt>
+              <Question>3. 기존 문화에 새로운 지식과 생활양식이 계속 쌓이고 전승됨. 요리법이 전수되는 것이 그러한 예</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="축적성"/>
+              </AnswerList>
+            </ImgOpt>
+          </InitQuiz>
+          <InitQuiz ID="3" Type="ImgOpt">
+            <ImgOpt>
+              <Question>4. 문화는 고정된 것이 아니라 시대적, 사회적, 환경에 따라 끊임없이 변화함. 다른 계층이 먹을 수 있는 음식이 되었다던가, 외국 문물을 접하여 새로운 재료가 추가된 것이 그러한 예.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="변동성"/>
+              </AnswerList>
+            </ImgOpt>
+          </InitQuiz>
+          <InitQuiz ID="4" Type="ImgOpt">
+            <ImgOpt>
+              <Question>5. 문화의 구성 요소들은 서로 밀접한 관련을 맺어, 하나의 문화 요소가 변화하면 다른 요소들에도 영향을 미침. 세계화로 인해 음식을 먹는 식기가 바뀐 것이 그러한 예.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="item0">
+                  <Sprite>공유성</Sprite>
+                  <Text>공유성</Text>
+                </InitItem>
+                <InitItem ID="1" Name="item1">
+                  <Sprite>학습성</Sprite>
+                  <Text>학습성</Text>
+                </InitItem>
+                <InitItem ID="2" Name="item2">
+                  <Sprite>축적성</Sprite>
+                  <Text>축적성</Text>
+                </InitItem>
+                <InitItem ID="3" Name="item3">
+                  <Sprite>변동성</Sprite>
+                  <Text>변동성</Text>
+                </InitItem>
+                <InitItem ID="4" Name="item4">
+                  <Sprite>전체성</Sprite>
+                  <Text>전체성</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="전체성"/>
+              </AnswerList>
+            </ImgOpt>
+          </InitQuiz>
+        </QuizList>
+      </InitQuizInfo>
+    </QuizTimeRec>
+    <QuizTimeAtk>
+      <InitQuizInfo ID="0" Count="3" Time="300.0">
+        <QuizList>
+          <InitQuiz ID="0" Type="Typing2">
+            <Typing2>
+              <Question>Q1. 태안 해안국립공원에 대한 설명에 맞으면 O, 틀리면 X 표시하세요.
+① 1978년에 우리나라 13번째 국립공원으로 지정되었다.
+② 해안 생태계의 다양성이 부족하다.
+③ 국내에서 세 번째로 지정된 해안국립공원이다.</Question>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="O"/>
+                <InitAnswer ID="1" Answer="X"/>
+                <InitAnswer ID="2" Answer="X"/>
+              </AnswerList>
+            </Typing2>
+          </InitQuiz>
+          <InitQuiz ID="1" Type="Opt">
+            <Opt>
+              <Question>Q2. 생태관광의 조건이 아닌 것을 고르세요.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="Item0">
+                  <Text>① 소규모 인원으로 관광한다.</Text>
+                </InitItem>
+                <InitItem ID="1" Name="Item1">
+                  <Text>② 전문 가이드와 동행한다.</Text>
+                </InitItem>
+                <InitItem ID="2" Name="Item2">
+                  <Text>③ 지역의 획일적인 문화를 추구한다.</Text>
+                </InitItem>
+                <InitItem ID="3" Name="Item3">
+                  <Text>④ 관광 이익을 지역사회에 환원한다.</Text>
+                </InitItem>
+                <InitItem ID="4" Name="Item4">
+                  <Text>⑤ 지역의 전통문화를 존중한다.</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="③ 지역의 획일적인 문화를 추구한다."/>
+              </AnswerList>
+            </Opt>
+          </InitQuiz>
+          <InitQuiz ID="2" Type="Typing1">
+            <Typing1>
+              <Question>Q3. 태안은 수려한 자연환경과 공동체의 정신으로 ○○○○로 선정되었다.</Question>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="슬로시티"/>
+              </AnswerList>
+            </Typing1>
+          </InitQuiz>
+        </QuizList>
+      </InitQuizInfo>
+    </QuizTimeAtk>
+    <LinkQuiz>
+      <InitQuizInfo ID="0">
+        <Text>문화의 속성에 대한 설명으로 알맞은 것을 연결하시오.</Text>
+        <LeftPanel>
+          <InitItem ID="0" Name="qitem1">
+            <Text>ㄱ. 학습성</Text>
+            <Pair>2</Pair>
+          </InitItem>
+          <InitItem ID="1" Name="qitem2">
+            <Text>ㄴ. 공유성</Text>
+            <Pair>4</Pair>
+          </InitItem>
+          <InitItem ID="2" Name="qitem3">
+            <Text>ㄷ. 변동성</Text>
+            <Pair>3</Pair>
+          </InitItem>
+          <InitItem ID="3" Name="qitem4">
+            <Text>ㄹ. 전체성(총체성)</Text>
+            <Pair>0</Pair>
+          </InitItem>
+          <InitItem ID="4" Name="qitem5">
+            <Text>ㅁ. 축적성</Text>
+            <Pair>1</Pair>
+          </InitItem>
+        </LeftPanel>
+        <RightPanel>
+          <InitItem ID="0" Name="aitem1">
+            <Text>1. 문화의 구성 요소들은 서로 밀접한 관련을 맺으면서 전체를 이룬다. 따라서 하나의 문화 요소가 변화하면 다른 요소들에 영향을 미친다.</Text>
+            <Pair>3</Pair>
+          </InitItem>
+          <InitItem ID="1" Name="aitem2">
+            <Text>2. 기존 문화에 새로운 지식과 생활 양식이 계속 쌓여서 다음 세대로 전승되고 축적된다.</Text>
+            <Pair>4</Pair>
+          </InitItem>
+          <InitItem ID="2" Name="aitem3">
+            <Text>3. 문화는 타고나는 것이 아니라 후천적인 학습의 결과로 만들어진 것이다.</Text>
+            <Pair>0</Pair>
+          </InitItem>
+          <InitItem ID="3" Name="aitem4">
+            <Text>4. 문화는 고정된 것이 아니라 시대와 사회, 환경에 따라 끊임없이 변화한다.</Text>
+            <Pair>2</Pair>
+          </InitItem>
+          <InitItem ID="4" Name="aitem5">
+            <Text>5. 한 사회의 구성원들에게 공통적인 행동 양식 및 사고 방식이 나타난다.</Text>
+            <Pair>1</Pair>
+          </InitItem>
+        </RightPanel>
+      </InitQuizInfo>
+    </LinkQuiz>
+    <OptQuiz>
+      <InitQuizInfo ID="0">
+        <Question>은행나무 열매에서 냄새가 나는 이유는 무엇일까?</Question>        
+        <OrderPanel>
+          <InitItem ID="0" Name="Item0">
+            <Text>1. 열매를 씻지 않아서</Text>
+          </InitItem>
+          <InitItem ID="1" Name="Item1">
+            <Text>2. 열매가 금방 썩어서</Text>
+          </InitItem>
+          <InitItem ID="2" Name="Item2">
+            <Text>3. 암나무와 수나무가 서로를 인지하기 위해서</Text>
+          </InitItem>
+          <InitItem ID="3" Name="Item3">
+            <Text>4. 해충으로부터 스스로를 보호하기 위해서</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="4. 해충으로부터 스스로를 보호하기 위해서"/>
+        </AnswerList>
+      </InitQuizInfo>
+    </OptQuiz>
+  </List> 
+</Quiz>

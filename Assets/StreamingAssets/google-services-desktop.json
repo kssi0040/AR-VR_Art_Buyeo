@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "493695843523",
+    "firebase_url": "https://eduplatform-97d55.firebaseio.com",
+    "project_id": "eduplatform-97d55",
+    "storage_bucket": "eduplatform-97d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493695843523:android:7338722d12368d009e7676",
+        "android_client_info": {
+          "package_name": "com.KSSI.ArtBuyeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDC7Q1kdkGYomvcl8cqZqQaEXs_5OifE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493695843523:android:8717292abe2264d39e7676",
+        "android_client_info": {
+          "package_name": "com.KSSI.ArtPaju"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDC7Q1kdkGYomvcl8cqZqQaEXs_5OifE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493695843523:android:982d8030ccc449e79e7676",
+        "android_client_info": {
+          "package_name": "com.KSSI.GeoPyongChang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDC7Q1kdkGYomvcl8cqZqQaEXs_5OifE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493695843523:android:b1031651de5e1b409e7676",
+        "android_client_info": {
+          "package_name": "com.KSSI.KoreanChuncheon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDC7Q1kdkGYomvcl8cqZqQaEXs_5OifE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493695843523:android:6b7518548b82dbb19e7676",
+        "android_client_info": {
+          "package_name": "com.KSSI.Sci_Changnyoung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDC7Q1kdkGYomvcl8cqZqQaEXs_5OifE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493695843523:android:c2d03f5f97a73e779e7676",
+        "android_client_info": {
+          "package_name": "com.KSSI.Sci_Jeonju"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDC7Q1kdkGYomvcl8cqZqQaEXs_5OifE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493695843523:android:0b9d62653a9aedb39e7676",
+        "android_client_info": {
+          "package_name": "com.KSSI.SocAnsan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDC7Q1kdkGYomvcl8cqZqQaEXs_5OifE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493695843523:android:e73c2ff044c394139e7676",
+        "android_client_info": {
+          "package_name": "com.KSSI.Soc_Incheon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDC7Q1kdkGYomvcl8cqZqQaEXs_5OifE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493695843523-sp6jovg3ak3nl8bvun3k6c7ir0kg3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz>
+  <List>       
+    <OptQuiz>
+      <InitQuizInfo ID="0">
+        <Question>Q1. 정림사지 5층석탑이 안정감과 정돈된 느낌을 주는 이유가 무엇인가요?</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="Item0">
+            <Text>① 건물 앞, 공원 등과 같이 대중이 쉽게 접할 수 있는 공공장소</Text>
+          </InitItem>
+          <InitItem ID="1" Name="Item1">
+            <Text>② 목탑의 구조와 비슷하지만, 비례와 균형을 수리적으로 맞추어서</Text>
+          </InitItem>
+          <InitItem ID="2" Name="Item2">
+            <Text>③ 중국의 불교 문화를 온전히 그대로 재현하여서</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="② 목탑의 구조와 비슷하지만, 비례와 균형을 수리적으로 맞추어서"/>
+        </AnswerList>
+      </InitQuizInfo>
+      <InitQuizInfo ID="1">
+        <Question>Q1. 백제금동대향로에 조각되어 있지 않은 것은 무엇인가요?</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="Item0">
+            <Text>① 봉황</Text>
+          </InitItem>
+          <InitItem ID="1" Name="Item1">
+            <Text>② 악사</Text>
+          </InitItem>
+          <InitItem ID="2" Name="Item2">
+            <Text>③ 임금</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="③ 임금"/>
+        </AnswerList>
+      </InitQuizInfo>
+      <InitQuizInfo ID="2">
+        <Question>Q2. 백제금동대향로에서 찾을 수 있는 백제 미술품의 특징은 무엇인가요?</Question>
+        <OrderPanel>
+          <InitItem ID="0" Name="Item0">
+            <Text>① 정교한 묘사가 나타난다.</Text>
+          </InitItem>
+          <InitItem ID="1" Name="Item1">
+            <Text>② 색은 화려하지만 무늬는 단순하다.</Text>
+          </InitItem>
+          <InitItem ID="2" Name="Item2">
+            <Text>③ 표현할 때 생략을 많이한다.</Text>
+          </InitItem>
+        </OrderPanel>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="① 정교한 묘사가 나타난다."/>
+        </AnswerList>
+      </InitQuizInfo>
+    </OptQuiz>
+    <Typing1Quiz>
+      <InitQuizInfo ID="0">
+        <Question>Q2. 다음의 설명이 옳은지 O/X로 표시해 봅시다. 백제의 불교문화는 역으로 중국에 영향을 미쳐 지금도 중국에서 백제의 석탑과 닮은 미술품이 발견된다. (O/X는 대문자로 작성해주세요.)</Question>
+        <AnswerList>
+          <InitAnswer ID="0" Answer="X"/>
+        </AnswerList>
+      </InitQuizInfo>
+    </Typing1Quiz>    
+  </List> 
+</Quiz>
